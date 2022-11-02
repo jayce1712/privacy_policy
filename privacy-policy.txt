@@ -1,0 +1,1 @@
+This apps does not communicate or store your data except in the very device itself. The only use for your personal data is UI customisation.
